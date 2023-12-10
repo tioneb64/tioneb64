@@ -6,10 +6,12 @@ J'ai débuté sur un Amiga 500 avec 512 Ko de RAM, ce qui m'a permis de mettre r
 
 J'ai débuté en travaillant pour le service informatique d'un organisme public. Par la suite, j'ai plongé dans la jungle des sociétés privées.
 Les années 1990, 2000 et 2010 ont été comme un tour du monde, avec des projets pour les banques et les télécoms dans plus de 15 pays.
- J'y ai acquis une expérience qui m'a formé un peu comme un compagnon du tour du monde, naviguant à travers des techniques et des méthodologies aussi variées que les continents eux-mêmes.
+J'y ai acquis une expérience qui m'a formé un peu comme un compagnon du tour du monde, naviguant à travers des techniques et
+des méthodologies aussi variées que les continents eux-mêmes.
 
 À titre personnel, le monde de la robotique me passionne, et je développe chez moi de petits robots.
-L'évolution spectaculaire de l'IA ces dernières années ouvre des tas de possibilités. Je développe mon IA qui gère de plus en plus de choses dans ma maison (sécurité, énergie, rapports, ...).
+L'évolution spectaculaire de l'IA ces dernières années ouvre des tas de possibilités. Je développe mon IA qui gère de plus en plus de
+choses dans ma maison (sécurité, énergie, rapports, ...).
 
 ## Technologies maîtrisées :
 - VMS, Unix, Linux, Windows
@@ -19,7 +21,8 @@ L'évolution spectaculaire de l'IA ces dernières années ouvre des tas de possi
 - Solution Hadoop, TensorFlow, PyTorch, NLP et machine learning, Koala AI
 
 ## Philosophie de développement :
-En premier, la première qualité de toute personne travaillant dans l'informatique est de ne pas s'endormir sur ses acquis, la veille technologique est primordiale dans notre secteur.
+En premier, la première qualité de toute personne travaillant dans l'informatique est de ne pas s'endormir sur ses acquis, la veille technologique
+est primordiale dans notre secteur.
 L'émergeance de l'IA ces dernières années chamboule notre métier, comme les moine copiste quand Gutenberg inventat l'imprimerie.
 
 Je pense qu'un projet doit être correctement conçu, et que l'analyse est la clé du travail.
@@ -27,12 +30,14 @@ Le code n'est que la traduction dans une langue parmi d'autres des règles que l
 C'est pourquoi le langage de programmation choisi a peu d'importance, même si certains sont plus spécialisés.
 
 Quand des jeunes programmeurs me demandent quel langage ils doivent maîtriser, je leur réponds que cela a peu d'importance.
-Même si la maîtrise d'un langage bas niveau comme le C, C++ leur apprendra beaucoup, le Python, qui explose en ce moment, est un bon langage, surtout avec une très grande communauté pour obtenir de l'aide.
+Même si la maîtrise d'un langage bas niveau comme le C, C++ leur apprendra beaucoup, le Python, qui explose en ce moment, est un bon langage,
+surtout avec une très grande communauté pour obtenir de l'aide.
 
 Je réalise souvent un POC avant la version finale, ce qui me permet de repérer les faiblesses de mon approche et de les corriger. 
 
 ## Projets notables :
-- En tant que CDO, dernièrement, j'ai conçu tout le système de data, en partant de zéro, pour le quatrième concessionnaire de France. 3000 employés, 150 points de vente et plusieurs milliard de C.A. par an.
+- En tant que CDO, dernièrement, j'ai conçu tout le système de data, en partant de zéro, pour le quatrième concessionnaire de France. 3000 employés,
+  150 points de vente et plusieurs milliard de C.A. par an.
 - Création d'un tradbot dont la version II est en développement, intégrant trois algorithmes d'IA embarqués pour améliorer les performances.
 - Installation de plusieurs opérateurs téléphoniques dans le monde.
 - Mise au point de la facturation en temps réel.
